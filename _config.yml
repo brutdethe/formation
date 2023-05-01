@@ -1,0 +1,26 @@
+title: Organisation festival GongFuCha
+description: >
+  Session d'organisation pour co-construire la seconde édition du festival
+author: pntbr
+email: stephane@brutdethe.fr
+repository: brutdethe/terre-pure.git
+
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: article
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
