@@ -14,9 +14,11 @@
     }
 </style>
 
-Du **vendredi 14 au dimanche 16 avril 2023** on se retrouve en résidence pour construire et préparer ensemble la seconde édition du festival **GongFuCha** qui aura lieu du 23 au 25 juin au [parc aux bambous](https://parcauxbambous.com/).
+Formation sur le **Thé de culture chinoise** par **YaLin** du **mardi 27 juin au dimanche 2 juillet 2023** en Ariège à Soulan.
 
-Ce sera l'occasion de s'organiser et de construire les valeurs et les objectifs du festival.
+
+
+- calligraphie, dégistation, cérémonie, échanges, pratique, atelier, randonnées thés
 
 Et aussi un moment de sympathique pour apprendre à mieux se connaître et déguster du thé ensemble.
 

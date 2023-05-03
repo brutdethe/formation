@@ -19,8 +19,13 @@ C'est précisément ici entre Saint-Girons et Massat [map](https://goo.gl/maps/K
 Vous pouvez vous rapprocher en train à la gare de Boussens, et finir en bus à Saint-Girons. Vous ne serez plus qu'à 20 minutes et nous pourrons passer vous récupérer.  
 
 ### Pour dormir
+Il y a un dortoir qui peut accueillir 6 personnes avec une chambre pour deux personnes. Il faut prévoir ses draps ou un duvet.  
 
-Il y a un dortoir qui peut accueillir 6 personnes avec une chambre pour deux personnes. Il faut prévoir ses draps ou un duvet.
+Il est possible de camper sur place.  
+
+Suivant disponibilité, il existe aussi la possibilité de petits logements privatifs :
+- caravanes
+- [chambre de retraite](https://www.airbnb.fr/rooms/575238152510124947)
 
 ### Participation aux frais ?
 Le domaine nous demande une participation de 5 euros par personne et 10 euros pour dormir.

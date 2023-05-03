@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Organisation du festival GongFuCha
+title: Formation sur le thé de culture chinoise
 ---
 
 ![](/assets/media/accueil_1.jpg)
 
-# Construire ensemble un festival sur le Thé
+# Formation sur le thé de culture chinoise
 
 {% include uvp.md %}
 
