@@ -16,18 +16,25 @@
 
 Formation sur le **Thé de culture chinoise** par **YaLin** du **mardi 27 juin au dimanche 2 juillet 2023** en Ariège à Soulan.
 
+Nous vous proposons une formation active où les personnes participantes co-décident les sujets à aborder et à approfondir tout au long des six jours.
 
+Chaque journée commence par un point sur ce que l'on a appris, ce qui n'a pas été bien compris et on poursuit en priorisant et en planifiant les sujets pour les deux jours à venir.
 
-- calligraphie, dégistation, cérémonie, échanges, pratique, atelier, randonnées thés
+Exemples de sujets pressentis :
+- comment préparer chaque type de thé
+- cartographie des thés 烏龍茶 - wūlóng de taïwan
+- calligraphie et thé : des gestes communs
+- cérémonie du thé : gestes, espaces et pensées chinoises
+- calligraphie : étude des termes liés au thé
+- les cultivars 
+- rando'thés : en montagne avec un brasero
 
-Et aussi un moment de sympathique pour apprendre à mieux se connaître et déguster du thé ensemble.
+<a href="https://boutique.xn--brutdeth-i1a.fr/?categorie=formations" target="_blank" >
+    <button>Réserver ma venue</button>
+</a>
 
 Pour l'organisation des repas, du covoiturage, des couchages,  
 Pouvez-vous renseigner votre venue [sur ce lien](https://docs.google.com/spreadsheets/d/1LZw-EeDIfyduq9F89t3I6aEtSF1WBa7wQvalhuqomig/edit) ?
-
-<a href="https://docs.google.com/spreadsheets/d/1LZw-EeDIfyduq9F89t3I6aEtSF1WBa7wQvalhuqomig/edit" target="_blank" >
-    <button>Renseigner ma venue</button>
-</a>
 
 Contact sur place : stephane@brutdethe.fr  
 Anik la propriétaire
