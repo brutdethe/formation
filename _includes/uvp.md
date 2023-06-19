@@ -28,6 +28,7 @@ Exemples de sujets pressentis :
 - calligraphie : étude des termes liés au thé
 - les cultivars 
 - rando'thés : en montagne avec un brasero
+- dégustation comparative des thés, des eaux, des infusions
 
 <a href="https://boutique.xn--brutdeth-i1a.fr/?categorie=formations" target="_blank" >
     <button>Réserver ma venue</button>
@@ -40,4 +41,5 @@ Contact sur place : stephane@brutdethe.fr
 Anik la propriétaire
   - associationterrepure@gmail.com
   - +33 561 968 709
-  - +33 688 299 980
+Yalin la déformatrice :
+  - +33 666 081 188
