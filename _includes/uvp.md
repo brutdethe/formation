@@ -30,7 +30,7 @@ Exemples de sujets pressentis :
 - rando'thés : en montagne avec un brasero
 - dégustation comparative des thés, des eaux, des infusions
 
-<a href="https://boutique.xn--brutdeth-i1a.fr/?categorie=formations" target="_blank" >
+<a href="https://boutique.brutdethé.fr/fr/formations" target="_blank" >
     <button>Réserver ma venue</button>
 </a>
 
