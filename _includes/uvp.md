@@ -37,7 +37,7 @@ Exemples de sujets pressentis :
 Pour l'organisation des repas, du covoiturage, des couchages,  
 Pouvez-vous renseigner votre venue [sur ce lien](https://docs.google.com/spreadsheets/d/1LZw-EeDIfyduq9F89t3I6aEtSF1WBa7wQvalhuqomig/edit) ?
 
-Contact sur place : stephane@brutdethe.fr  
+Contact sur place : stephane@gongfucha.fr  
 Anik la propriétaire
   - associationterrepure@gmail.com
   - +33 561 968 709
